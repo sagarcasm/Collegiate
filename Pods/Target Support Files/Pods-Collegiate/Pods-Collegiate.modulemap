@@ -1,0 +1,6 @@
+framework module Pods_Collegiate {
+  umbrella header "Pods-Collegiate-umbrella.h"
+
+  export *
+  module * { export * }
+}
