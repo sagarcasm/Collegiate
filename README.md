@@ -2,6 +2,11 @@
 
 Dorm (Collegiate/ CollegeConnect) is event managing app which will help a user of a given college to link them to the all the college events on or near the campus. The app will make use of the inbuilt college user’s authentication system with the help of web services to authenticate and authorize the user of a given college to view the events on the campus. These can be anything major or minor events on campus viz sport, cultural, studies, dinning services.
 
+## Developers
+Sagar Sawant
+
+Gaurav Gawade
+
 ## Getting Started
 
 This is a Mobile Application Dev I (ISTE77401.2155) which is just demostration of the code which is strictly for educational purposes. Any code copy/usage can be acessed under the  [STUDENT ACADEMIC INTEGRITY POLICY](https://www.rit.edu/academicaffairs/policiesmanual/d080) - The web framework used
